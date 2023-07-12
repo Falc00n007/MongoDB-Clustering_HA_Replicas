@@ -1,4 +1,4 @@
-* To install MongoDB on Ubuntu Server 20.04, you can follow these steps:
+# To install MongoDB on Ubuntu Server 20.04, you can follow these steps:
 
 Step 1: Import the MongoDB GPG Key
 ```
